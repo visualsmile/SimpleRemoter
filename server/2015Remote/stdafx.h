@@ -31,7 +31,7 @@
 #define CLOSE_DELETE_DLG 0
 
 // 检测内存泄漏，需安装VLD；否则请注释此行
-#include "vld.h"
+//#include "vld.h"
 
 #include "targetver.h"
 
